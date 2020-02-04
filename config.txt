@@ -1,9 +1,9 @@
 ﻿// التوكن هنا
-token = 
+token = Njc0Mzg2MTM5MDI0NzE5ODkz.Xjn1MA.RFBUmWXPkbYMxb5cGC7gO8XHASs
 // ايدي اونر البوت
 owner = 527095629223165973
 // البرفكس حق البوت
-prefix = 
+prefix = 1
 // البلينق الثابت حق البوت
 game = "DEFAULT"
 // حالة البوت
@@ -43,10 +43,10 @@ aliases {
   forceremove = [ forcedelete, modremove, moddelete ]
   forceskip = [ fs ]
   movetrack = [ mt ]
-  pause = [pa]
+  pause = []
   playnext = [ pn]
   repeat = [ rep ]
   skipto = [ jumpto ]
-  stop = [s]
+  stop = [st]
   volume = [ vol ]
 }
